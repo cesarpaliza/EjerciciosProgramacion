@@ -1,0 +1,14 @@
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\bin\Debug\Ejemplos.exe.config
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\obj\Debug\Ejemplos.csprojAssemblyReference.cache
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\obj\Debug\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\obj\Debug\Ejemplos.exe
+C:\Users\ALEX.HOSPITALCIVIL\projects\Ejemplos\obj\Debug\Ejemplos.pdb
+C:\Users\auxsistemas\projects\Ejemplos\bin\Debug\Ejemplos.exe.config
+C:\Users\auxsistemas\projects\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\auxsistemas\projects\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\auxsistemas\projects\Ejemplos\obj\Debug\Ejemplos.csprojAssemblyReference.cache
+C:\Users\auxsistemas\projects\Ejemplos\obj\Debug\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\auxsistemas\projects\Ejemplos\obj\Debug\Ejemplos.exe
+C:\Users\auxsistemas\projects\Ejemplos\obj\Debug\Ejemplos.pdb
